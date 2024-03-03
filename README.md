@@ -29,7 +29,7 @@ https://thesarkecommerce.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/anaswaheedkhawaja/Ecommerce
+  git clone https://github.com/anaswaheedkhawaja/thesarkecommerce
 ```
 
 Go to the project directory
